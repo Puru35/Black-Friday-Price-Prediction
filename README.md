@@ -1,7 +1,7 @@
 ## Black Friday Sales Prediction
 This project has been divided into 3 notebooks, each accomplishing a different task of the project. Please view these notebooks in the respective order stated below.
 1. [Black Friday Data Cleaning](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/Black_Friday_Data_Cleaning_.ipynb)
-    * Contains the Description of the project, the data cleaning and pre-processing of the dataset. Import the [train.csv](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/train.csv) dataset for this notebook.
+    * Contains the Description and the Problem Statement of the project, the data cleaning and pre-processing of the dataset. Import the [train.csv](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/train.csv) dataset for this notebook.
 2. [Black Friday Visualization](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/Black_Friday_Visualization_.ipynb)
     * This Notebook contains the visualization of the various features of the dataset. Import the [train.csv](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/train.csv) dataset for this notebook.
 3. [Black Friday Model Training](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/Black_Friday_Model_Training.ipynb)
