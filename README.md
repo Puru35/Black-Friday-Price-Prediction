@@ -9,6 +9,8 @@ This project has been divided into 3 notebooks, each accomplishing a different t
     
 Each of these links takes you to the respective notebooks, which can be viewed in Google Colab. All of the required csv files have been provided in the repository, along with the "test" dataset that I have not implemented.
 
+To view the Interactive Dashboard that I have created In Tableau Public, please click [here](https://public.tableau.com/profile/rohan.purandhar#!/vizhome/Book1_15908458146910/BlackFridayDataAnalysis). To download the workbook and view it in Tableau Desktop please select the "download" option in the [Black Friday Sales Prediction Dashboard](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/Black%20Friday%20Sales%20Prediction.twbx) file.
+
 ## Conclusion
 To view the final conclusion, view the last segment of the [Black Friday Model Training](https://github.com/Puru35/Black-Friday-Sales-Prediction/blob/master/Black_Friday_Model_Training.ipynb) notebook.
 
